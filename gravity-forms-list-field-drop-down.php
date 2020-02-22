@@ -7,6 +7,7 @@ Author: Adrian Gordon
 Author URI: https://www.itsupportguides.com
 License: GPL2
 Text Domain: gravity-forms-list-field-select-drop-down
+Github Plugin URI: speedpro/gravity-forms-list-field-select-drop-down
 
 ------------------------------------------------------------------------
 Copyright 2015 Adrian Gordon
